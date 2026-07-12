@@ -58,6 +58,10 @@ body {
     background: url("images/tornado in bloxd.jpg") center/cover no-repeat;
 }
 
+#discord-button {
+    background: url("images/discord.jpg") center/cover no-repeat;
+}
+
 #playbloxd-button:hover {
     transform: scale(1.05);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
@@ -68,6 +72,12 @@ body {
     transform: scale(1.05);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
     background: url("images/blurred\ pfp.jpg") center/cover no-repeat;
+}
+
+#discord-button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+    background: url("images/blurred\ discord.jpg") center/cover no-repeat;
 }
 
 #description {
